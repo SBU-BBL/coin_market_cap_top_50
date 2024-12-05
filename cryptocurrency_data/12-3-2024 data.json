@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Bitcoin",
+        "rank": 1,
+        "market_cap_usd": 1900000000000.0,
+        "price_usd": 95816.0
+    },
+    {
+        "name": "Ethereum",
+        "rank": 2,
+        "market_cap_usd": 442160000000.0,
+        "price_usd": 3671.22
+    },
+    {
+        "name": "XRP",
+        "rank": 3,
+        "market_cap_usd": 145480000000.0,
+        "price_usd": 2.55
+    },
+    {
+        "name": "Tether",
+        "rank": 4,
+        "market_cap_usd": 130850000000.0,
+        "price_usd": 1.001038
+    },
+    {
+        "name": "Solana",
+        "rank": 5,
+        "market_cap_usd": 112880000000.0,
+        "price_usd": 237.61
+    },
+    {
+        "name": "Binance Coin",
+        "rank": 6,
+        "market_cap_usd": 111090000000.0,
+        "price_usd": 752.77
+    },
+    {
+        "name": "Dogecoin",
+        "rank": 7,
+        "market_cap_usd": 61040000000.0,
+        "price_usd": 0.415237
+    },
+    {
+        "name": "Cardano",
+        "rank": 8,
+        "market_cap_usd": 42550000000.0,
+        "price_usd": 1.213284
+    },
+    {
+        "name": "USD Coin",
+        "rank": 9,
+        "market_cap_usd": 39010000000.0,
+        "price_usd": 0.999958
+    },
+    {
+        "name": "TRON",
+        "rank": 10,
+        "market_cap_usd": 34960000000.0,
+        "price_usd": 0.405032
+    },
+    {
+        "name": "Avalanche",
+        "rank": 11,
+        "market_cap_usd": 21390000000.0,
+        "price_usd": 52.26
+    },
+    {
+        "name": "Shiba Inu",
+        "rank": 12,
+        "market_cap_usd": 17660000000.0,
+        "price_usd": 2.998e-05
+    },
+    {
+        "name": "Toncoin",
+        "rank": 13,
+        "market_cap_usd": 17600000000.0,
+        "price_usd": 6.91
+    },
+    {
+        "name": "Stellar",
+        "rank": 14,
+        "market_cap_usd": 15370000000.0,
+        "price_usd": 0.510986
+    },
+    {
+        "name": "Polkadot",
+        "rank": 15,
+        "market_cap_usd": 15210000000.0,
+        "price_usd": 9.98
+    },
+    {
+        "name": "Chainlink",
+        "rank": 16,
+        "market_cap_usd": 15090000000.0,
+        "price_usd": 24.07
+    },
+    {
+        "name": "Wrapped Bitcoin",
+        "rank": 17,
+        "market_cap_usd": 14860000000.0,
+        "price_usd": 95598.0
+    },
+    {
+        "name": "Hedera Hashgraph",
+        "rank": 18,
+        "market_cap_usd": 11750000000.0,
+        "price_usd": 0.328598
+    },
+    {
+        "name": "Bitcoin Cash",
+        "rank": 19,
+        "market_cap_usd": 11340000000.0,
+        "price_usd": 572.83
+    },
+    {
+        "name": "Litecoin",
+        "rank": 20,
+        "market_cap_usd": 9760000000.0,
+        "price_usd": 129.67
+    },
+    {
+        "name": "NEAR Protocol",
+        "rank": 21,
+        "market_cap_usd": 9000000000.0,
+        "price_usd": 7.39
+    },
+    {
+        "name": "Uniswap",
+        "rank": 22,
+        "market_cap_usd": 8930000000.0,
+        "price_usd": 14.87
+    },
+    {
+        "name": "Pepe Coin",
+        "rank": 23,
+        "market_cap_usd": 8610000000.0,
+        "price_usd": 2.048e-05
+    },
+    {
+        "name": "Sui Crypto",
+        "rank": 24,
+        "market_cap_usd": 8610000000.0,
+        "price_usd": 3.68
+    },
+    {
+        "name": "Aptos",
+        "rank": 25,
+        "market_cap_usd": 7640000000.0,
+        "price_usd": 14.3
+    },
+    {
+        "name": "Internet Computer",
+        "rank": 26,
+        "market_cap_usd": 7020000000.0,
+        "price_usd": 14.78
+    },
+    {
+        "name": "VeChain",
+        "rank": 27,
+        "market_cap_usd": 5830000000.0,
+        "price_usd": 0.071938
+    },
+    {
+        "name": "UNUS SED LEO",
+        "rank": 28,
+        "market_cap_usd": 5580000000.0,
+        "price_usd": 6.03
+    },
+    {
+        "name": "Multi-Collateral Dai",
+        "rank": 29,
+        "market_cap_usd": 5350000000.0,
+        "price_usd": 0.999898
+    },
+    {
+        "name": "Ethereum Classic",
+        "rank": 30,
+        "market_cap_usd": 5320000000.0,
+        "price_usd": 35.51
+    },
+    {
+        "name": "Cronos",
+        "rank": 31,
+        "market_cap_usd": 5310000000.0,
+        "price_usd": 0.199977
+    },
+    {
+        "name": "Fetch.ai",
+        "rank": 32,
+        "market_cap_usd": 4970000000.0,
+        "price_usd": 1.970198
+    },
+    {
+        "name": "Bittensor",
+        "rank": 33,
+        "market_cap_usd": 4690000000.0,
+        "price_usd": 635.33
+    },
+    {
+        "name": "Filecoin",
+        "rank": 34,
+        "market_cap_usd": 4670000000.0,
+        "price_usd": 7.72
+    },
+    {
+        "name": "Arbitrum",
+        "rank": 35,
+        "market_cap_usd": 4410000000.0,
+        "price_usd": 1.075352
+    },
+    {
+        "name": "Algorand",
+        "rank": 36,
+        "market_cap_usd": 4340000000.0,
+        "price_usd": 0.523115
+    },
+    {
+        "name": "Kaspa",
+        "rank": 37,
+        "market_cap_usd": 4150000000.0000005,
+        "price_usd": 0.164479
+    },
+    {
+        "name": "Polygon Ecosystem Token",
+        "rank": 38,
+        "market_cap_usd": 4040000000.0,
+        "price_usd": 0.713084
+    },
+    {
+        "name": "Stacks",
+        "rank": 39,
+        "market_cap_usd": 3890000000.0,
+        "price_usd": 2.59
+    },
+    {
+        "name": "Cosmos",
+        "rank": 40,
+        "market_cap_usd": 3800000000.0,
+        "price_usd": 9.71
+    },
+    {
+        "name": "Aave",
+        "rank": 41,
+        "market_cap_usd": 3630000000.0,
+        "price_usd": 242.28
+    },
+    {
+        "name": "Monero",
+        "rank": 42,
+        "market_cap_usd": 3630000000.0,
+        "price_usd": 196.79
+    },
+    {
+        "name": "Celestia",
+        "rank": 43,
+        "market_cap_usd": 3600000000.0,
+        "price_usd": 8.27
+    },
+    {
+        "name": "OKB",
+        "rank": 44,
+        "market_cap_usd": 3600000000.0,
+        "price_usd": 59.99
+    },
+    {
+        "name": "Fantom",
+        "rank": 45,
+        "market_cap_usd": 3540000000.0,
+        "price_usd": 1.263417
+    },
+    {
+        "name": "Render Token",
+        "rank": 46,
+        "market_cap_usd": 3480000000.0,
+        "price_usd": 8.86
+    },
+    {
+        "name": "Dogwifhat",
+        "rank": 47,
+        "market_cap_usd": 3300000000.0,
+        "price_usd": 3.3
+    },
+    {
+        "name": "MANTRA DAO",
+        "rank": 48,
+        "market_cap_usd": 3280000000.0,
+        "price_usd": 3.92
+    },
+    {
+        "name": "Injective",
+        "rank": 49,
+        "market_cap_usd": 3260000000.0,
+        "price_usd": 32.97
+    },
+    {
+        "name": "Optimism",
+        "rank": 50,
+        "market_cap_usd": 3230000000.0,
+        "price_usd": 2.57
+    }
+]

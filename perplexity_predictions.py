@@ -8,17 +8,20 @@ api_endpoint = "/chat/completions"
 api_key = "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"
 
 # Load cryptocurrency data from JSON file
-input_file = "cryptocurrency_data.json"
-output_file = "predictions.json"
+input_file = "12-3-2024 data.json"
+output_file = "12-4-2024 prediction.json"
 
 with open(input_file, "r") as file:
     cryptocurrency_data = json.load(file)
 
 # Prepare the prompt
 prompt = (
-    "Using the given cryptocurrency data, predict the prices and market caps for the next day. "
-    "Provide the output as a JSON array with each cryptocurrency's name, predicted price, and predicted market cap. "
-    "Do not provide anything but the JSON array. Also add a rank to each so i see that you have all 100 companies"
+    "Do not provide anything but the JSON array, and ensure all 50 cryptocurrencies are included with ranks."
+    "You are an AI model specialized in cryptocurrency market predictions"
+    "Using the given cryptocurrency data and factoring in recent shifts in regulatory policies or announcements from major economies, predict the next day's price and market cap for each cryptocurrency." 
+    "Provide the output as a JSON array with each cryptocurrency's name, rank, predicted market cap in USD, and predicted price in USD." 
+    "Ensure your predictions reflect the potential influence of these regulatory changes on market sentiment and performance." 
+    "Again provide nothsing more than the JSON Array!"
 )
 
 # Prepare the payload for the Perplexity API
@@ -37,7 +40,7 @@ payload = {
             )
         }
     ],
-    "max_tokens": 2000,  # Adjust as needed
+    "max_tokens": 3000,  # Adjust as needed
     "temperature": 0.2,
     "top_p": 0.9,
     "stream": False
@@ -76,8 +79,12 @@ try:
         # Remove the ```json markers and clean up the string
         clean_content = re.sub(r"```json|```", "", content).strip()
 
-        # Convert the string to a JSON object
-        predictions = json.loads(clean_content)
+        # Debugging: Validate JSON manually if needed
+        try:
+            predictions = json.loads(clean_content)
+        except json.JSONDecodeError as e:
+            print(f"Invalid JSON Content: {clean_content}")
+            raise e
 
         # Save the cleaned JSON to a file
         with open(output_file, "w") as file:
@@ -87,6 +94,3 @@ try:
 
 except Exception as e:
     print(f"An error occurred: {e}")
-
-finally:
-    connection.close()
