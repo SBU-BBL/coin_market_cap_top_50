@@ -135,7 +135,7 @@ def daily_task():
 if __name__ == "__main__":
     while True:
         current_time = datetime.datetime.now()
-        if current_time.hour == 23 and current_time.minute == 59:  # Check if it is 11:59 PM
+        if current_time.hour == 00 and current_time.minute == 16:  # Check if it is 11:59 PM
             daily_task()
             time.sleep(60) 
         time.sleep(1)  
