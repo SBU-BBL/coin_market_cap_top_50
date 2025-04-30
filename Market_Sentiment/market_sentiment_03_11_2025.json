@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "prediction": -1,
+        "confidence": 0.8
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "prediction": -1,
+        "confidence": 0.7
+    },
+    {
+        "name": "Tether",
+        "symbol": "USDT",
+        "prediction": 0,
+        "confidence": 0.5
+    },
+    {
+        "name": "XRP",
+        "symbol": "XRP",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "prediction": -1,
+        "confidence": 0.7
+    },
+    {
+        "name": "Solana",
+        "symbol": "SOL",
+        "prediction": -1,
+        "confidence": 0.8
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "prediction": 0,
+        "confidence": 0.5
+    },
+    {
+        "name": "Cardano",
+        "symbol": "ADA",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "prediction": -1,
+        "confidence": 0.7
+    },
+    {
+        "name": "TRON",
+        "symbol": "TRX",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Pi Network",
+        "symbol": "PI",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "UNUS SED LEO",
+        "symbol": "LEO",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Chainlink",
+        "symbol": "LINK",
+        "prediction": -1,
+        "confidence": 0.7
+    },
+    {
+        "name": "Stellar",
+        "symbol": "XLM",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Shiba Inu",
+        "symbol": "SHIB",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "prediction": -1,
+        "confidence": 0.7
+    },
+    {
+        "name": "Hedera Hashgraph",
+        "symbol": "HBAR",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Toncoin",
+        "symbol": "TON",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Polkadot",
+        "symbol": "DOT",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "MANTRA DAO",
+        "symbol": "OM",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Ethena USDe",
+        "symbol": "USDE",
+        "prediction": 0,
+        "confidence": 0.5
+    },
+    {
+        "name": "Multi-Collateral Dai",
+        "symbol": "DAI",
+        "prediction": 0,
+        "confidence": 0.5
+    },
+    {
+        "name": "USDS",
+        "symbol": "USDS",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Sui Crypto",
+        "symbol": "SUI",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Bitget Token",
+        "symbol": "BGB",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Hyperliquid",
+        "symbol": "HYPE",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Monero",
+        "symbol": "XMR",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Aptos",
+        "symbol": "APT",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "NEAR Protocol",
+        "symbol": "NEAR",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Aave",
+        "symbol": "AAVE",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Ethereum Classic",
+        "symbol": "ETC",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Internet Computer",
+        "symbol": "ICP",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Pepe Coin",
+        "symbol": "PEPE",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "OKB",
+        "symbol": "OKB",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Mantle",
+        "symbol": "MNT",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Official Trump",
+        "symbol": "TRUMP",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Cronos",
+        "symbol": "CRO",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "First Digital USD",
+        "symbol": "FDUSD",
+        "prediction": 0,
+        "confidence": 0.5
+    },
+    {
+        "name": "VeChain",
+        "symbol": "VET",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Bittensor",
+        "symbol": "TAO",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Filecoin",
+        "symbol": "FIL",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Celestia",
+        "symbol": "TIA",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Algorand",
+        "symbol": "ALGO",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "GateToken",
+        "symbol": "GT",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Kaspa",
+        "symbol": "KAS",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Cosmos",
+        "symbol": "ATOM",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "DeXe",
+        "symbol": "DEXE",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Optimism",
+        "symbol": "OP",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "KuCoin Token",
+        "symbol": "KCS",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Ethena",
+        "symbol": "ENA",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Jupiter",
+        "symbol": "JUP",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Sonic",
+        "symbol": "S",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Movement",
+        "symbol": "MOVE",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Artificial Superintelligence Alliance",
+        "symbol": "FET",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Story",
+        "symbol": "IP",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Fasttoken",
+        "symbol": "FTN",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Ondo Finance",
+        "symbol": "ONDO",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Render Token",
+        "symbol": "RENDER",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "XDC Network",
+        "symbol": "XDC",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Maker",
+        "symbol": "MKR",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Injective",
+        "symbol": "INJ",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Stacks",
+        "symbol": "STX",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "MetaGamesCoin",
+        "symbol": "MGC",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Quant",
+        "symbol": "QNT",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Sei",
+        "symbol": "SEI",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Flare",
+        "symbol": "FLR",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Worldcoin",
+        "symbol": "WLD",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "The Graph",
+        "symbol": "GRT",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Lido DAO Token",
+        "symbol": "LDO",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Bonk",
+        "symbol": "BONK",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Immutable X",
+        "symbol": "IMX",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Theta Token",
+        "symbol": "THETA",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "PayPal USD",
+        "symbol": "PYUSD",
+        "prediction": 0,
+        "confidence": 0.5
+    },
+    {
+        "name": "EOS",
+        "symbol": "EOS",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "USDD",
+        "symbol": "USDD",
+        "prediction": 0,
+        "confidence": 0.5
+    },
+    {
+        "name": "Tether Gold",
+        "symbol": "XAUT",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Tezos",
+        "symbol": "XTZ",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Nexo",
+        "symbol": "NEXO",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "The Sandbox",
+        "symbol": "SAND",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "BitTorrent",
+        "symbol": "BTT",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Jasmy",
+        "symbol": "JASMY",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "IOTA",
+        "symbol": "IOTA",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Frax",
+        "symbol": "FRAX",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Bitcoin SV",
+        "symbol": "BSV",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Jito",
+        "symbol": "JTO",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Berachain",
+        "symbol": "BERA",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Ethereum Name Service",
+        "symbol": "ENS",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "Kaia",
+        "symbol": "KAIA",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Flow",
+        "symbol": "FLOW",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "GALA",
+        "symbol": "GALA",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Virtual Protocol",
+        "symbol": "VIRTUAL",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "PAX Gold",
+        "symbol": "PAXG",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Floki Inu",
+        "symbol": "FLOKI",
+        "prediction": -1,
+        "confidence": 0.5
+    },
+    {
+        "name": "NEO",
+        "symbol": "NEO",
+        "prediction": -1,
+        "confidence": 0.6
+    },
+    {
+        "name": "Pyth Network",
+        "symbol": "PYTH",
+        "prediction": -1,
+        "confidence": 0.5
+    }
+]

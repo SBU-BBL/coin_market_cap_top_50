@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 30.0,
+        "sector": "Market Leader"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "High-Speed Blockchain"
+    },
+    {
+        "name": "Chainlink",
+        "ticker": "LINK",
+        "weight": 10.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Hyperliquid",
+        "ticker": "HYPE",
+        "weight": 5.0,
+        "sector": "Meme Coin"
+    },
+    {
+        "name": "Polkadot",
+        "ticker": "DOT",
+        "weight": 5.0,
+        "sector": "Interoperability"
+    },
+    {
+        "name": "Avalanche",
+        "ticker": "AVAX",
+        "weight": 5.0,
+        "sector": "High-Speed Blockchain"
+    },
+    {
+        "name": "Dawgz AI",
+        "ticker": "DAWGZ",
+        "weight": 5.0,
+        "sector": "AI & Meme Coin"
+    },
+    {
+        "name": "Cardano",
+        "ticker": "ADA",
+        "weight": 5.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Shiba Inu",
+        "ticker": "SHIB",
+        "weight": 0.5,
+        "sector": "Meme Coin"
+    }
+]

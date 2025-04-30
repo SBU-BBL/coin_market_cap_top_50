@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 25.0,
+        "sector": "General"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "General"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "General"
+    },
+    {
+        "name": "Ripple",
+        "ticker": "XRP",
+        "weight": 10.0,
+        "sector": "General"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 30.0,
+        "sector": "General"
+    }
+]

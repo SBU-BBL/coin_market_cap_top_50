@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 20.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Toncoin",
+        "ticker": "TON",
+        "weight": 15.0,
+        "sector": "AI"
+    },
+    {
+        "name": "Cardano",
+        "ticker": "ADA",
+        "weight": 12.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "BNB",
+        "ticker": "BNB",
+        "weight": 10.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 8.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "HYPE",
+        "ticker": "HYPE",
+        "weight": 7.0,
+        "sector": "AI"
+    },
+    {
+        "name": "CRV",
+        "ticker": "CRV",
+        "weight": 6.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 5.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "XRP",
+        "ticker": "XRP",
+        "weight": 3.0,
+        "sector": "Smart Contracts"
+    }
+]

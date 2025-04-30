@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 25.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Ripple",
+        "ticker": "XRP",
+        "weight": 10.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Hyperliquid",
+        "ticker": "HYPE",
+        "weight": 5.0,
+        "sector": "Memecoin"
+    },
+    {
+        "name": "Curve DAO Token",
+        "ticker": "CRV",
+        "weight": 5.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 20.0,
+        "sector": "Exchange Token"
+    }
+]

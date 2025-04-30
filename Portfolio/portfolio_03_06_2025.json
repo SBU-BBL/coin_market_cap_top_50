@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 20.0,
+        "sector": "General"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 25.0,
+        "sector": "General"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "General"
+    },
+    {
+        "name": "Ripple",
+        "ticker": "XRP",
+        "weight": 10.0,
+        "sector": "General"
+    },
+    {
+        "name": "Hyperliquid",
+        "ticker": "HYPE",
+        "weight": 5.0,
+        "sector": "General"
+    },
+    {
+        "name": "Curve DAO Token",
+        "ticker": "CRV",
+        "weight": 5.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 20.0,
+        "sector": "General"
+    }
+]

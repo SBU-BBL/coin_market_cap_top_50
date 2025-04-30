@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 30.0,
+        "sector": "General Market"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 15.0,
+        "sector": "Exchange Tokens"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "DeFi & NFT"
+    },
+    {
+        "name": "Dogecoin",
+        "ticker": "DOGE",
+        "weight": 10.0,
+        "sector": "Community-driven"
+    },
+    {
+        "name": "Filecoin",
+        "ticker": "FIL",
+        "weight": 5.0,
+        "sector": "Storage Solutions"
+    },
+    {
+        "name": "HyperLiquid",
+        "ticker": "HYPE",
+        "weight": 5.0,
+        "sector": "DeFi"
+    }
+]

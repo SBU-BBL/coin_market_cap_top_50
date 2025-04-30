@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 30.0,
+        "sector": "Market Leader"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 25.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Ripple",
+        "ticker": "XRP",
+        "weight": 10.0,
+        "sector": "Cross-Chain Transactions"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 10.0,
+        "sector": "Exchange Token"
+    },
+    {
+        "name": "Dogecoin",
+        "ticker": "DOGE",
+        "weight": 5.0,
+        "sector": "Memecoin"
+    },
+    {
+        "name": "Cardano",
+        "ticker": "ADA",
+        "weight": 5.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Avalanche",
+        "ticker": "AVAX",
+        "weight": 5.0,
+        "sector": "DeFi"
+    }
+]

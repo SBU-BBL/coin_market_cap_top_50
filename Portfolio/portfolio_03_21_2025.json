@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 30.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 15.0,
+        "sector": "Exchange Tokens"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 10.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Filecoin",
+        "ticker": "FIL",
+        "weight": 5.0,
+        "sector": "Storage"
+    },
+    {
+        "name": "Fetch.ai",
+        "ticker": "FET",
+        "weight": 5.0,
+        "sector": "AI"
+    },
+    {
+        "name": "HyperLiquid",
+        "ticker": "HYPE",
+        "weight": 5.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Tether",
+        "ticker": "USDT",
+        "weight": 5.0,
+        "sector": "Stablecoins"
+    },
+    {
+        "name": "XRP",
+        "ticker": "XRP",
+        "weight": 5.0,
+        "sector": "Stablecoins"
+    },
+    {
+        "name": "Dogecoin",
+        "ticker": "DOGE",
+        "weight": 0.5,
+        "sector": "Meme Coins"
+    }
+]

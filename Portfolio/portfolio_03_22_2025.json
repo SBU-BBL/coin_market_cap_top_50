@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 20.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 25.0,
+        "sector": "Smart Contracts & DeFi"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 15.0,
+        "sector": "Ecosystem Token"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 10.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Fetch.ai",
+        "ticker": "FET",
+        "weight": 10.0,
+        "sector": "AI"
+    },
+    {
+        "name": "Dogecoin",
+        "ticker": "DOGE",
+        "weight": 5.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Cardano",
+        "ticker": "ADA",
+        "weight": 5.0,
+        "sector": "Smart Contracts & DeFi"
+    },
+    {
+        "name": "Avalanche",
+        "ticker": "AVAX",
+        "weight": 5.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Filecoin",
+        "ticker": "FIL",
+        "weight": 5.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "SingularityNET",
+        "ticker": "AGIX",
+        "weight": 5.0,
+        "sector": "AI"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 20.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "Smart Contracts & DeFi"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 15.0,
+        "sector": "Ecosystem Token"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 10.0,
+        "sector": "High-Speed Transactions"
+    },
+    {
+        "name": "Ripple",
+        "ticker": "XRP",
+        "weight": 8.0,
+        "sector": "Cross-Border Payments"
+    },
+    {
+        "name": "Filecoin",
+        "ticker": "FIL",
+        "weight": 7.0,
+        "sector": "Storage Solutions"
+    },
+    {
+        "name": "Fetch.ai",
+        "ticker": "FET",
+        "weight": 6.0,
+        "sector": "AI & Machine Learning"
+    },
+    {
+        "name": "Avalanche",
+        "ticker": "AVAX",
+        "weight": 5.0,
+        "sector": "Layer 1 Blockchain"
+    },
+    {
+        "name": "Dogecoin",
+        "ticker": "DOGE",
+        "weight": 4.0,
+        "sector": "Community-Driven Crypto"
+    },
+    {
+        "name": "Polkadot",
+        "ticker": "DOT",
+        "weight": 5.0,
+        "sector": "Interoperability Solutions"
+    }
+]

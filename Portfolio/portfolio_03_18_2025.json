@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 20.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Chainlink",
+        "ticker": "LINK",
+        "weight": 15.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Hyperliquid",
+        "ticker": "HYPE",
+        "weight": 10.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "MAGACOINFINANCE",
+        "ticker": "MAGA",
+        "weight": 10.0,
+        "sector": "Altcoin"
+    },
+    {
+        "name": "Polkadot",
+        "ticker": "DOT",
+        "weight": 5.0,
+        "sector": "Interoperability"
+    },
+    {
+        "name": "Avalanche",
+        "ticker": "AVAX",
+        "weight": 5.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 5.0,
+        "sector": "General Crypto"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 30.0,
+        "sector": "General"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "General"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "General"
+    },
+    {
+        "name": "Fetch.ai",
+        "ticker": "FET",
+        "weight": 10.0,
+        "sector": "AI"
+    },
+    {
+        "name": "Filecoin",
+        "ticker": "FIL",
+        "weight": 5.0,
+        "sector": "General"
+    },
+    {
+        "name": "Berachain",
+        "ticker": "BERA",
+        "weight": 5.0,
+        "sector": "General"
+    },
+    {
+        "name": "Aptos",
+        "ticker": "APT",
+        "weight": 5.0,
+        "sector": "General"
+    },
+    {
+        "name": "OKB",
+        "ticker": "OKB",
+        "weight": 5.0,
+        "sector": "General"
+    },
+    {
+        "name": "Curve DAO Token",
+        "ticker": "CRV",
+        "weight": 5.0,
+        "sector": "DeFi"
+    }
+]

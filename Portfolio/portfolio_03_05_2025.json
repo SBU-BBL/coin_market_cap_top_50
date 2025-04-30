@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 25.0,
+        "sector": "General"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Binance Coin",
+        "ticker": "BNB",
+        "weight": 15.0,
+        "sector": "General"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 10.0,
+        "sector": "General"
+    },
+    {
+        "name": "Cardano",
+        "ticker": "ADA",
+        "weight": 8.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Toncoin",
+        "ticker": "TON",
+        "weight": 7.0,
+        "sector": "General"
+    },
+    {
+        "name": "Hyperliquid",
+        "ticker": "HYPE",
+        "weight": 5.0,
+        "sector": "General"
+    }
+]

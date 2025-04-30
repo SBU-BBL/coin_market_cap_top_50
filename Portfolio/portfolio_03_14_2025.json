@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 30.0,
+        "sector": "General Crypto"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Chainlink",
+        "ticker": "LINK",
+        "weight": 10.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Hyperliquid",
+        "ticker": "HYPE",
+        "weight": 5.0,
+        "sector": "AI"
+    },
+    {
+        "name": "Dawgz AI",
+        "ticker": "DAWGZ",
+        "weight": 5.0,
+        "sector": "AI"
+    },
+    {
+        "name": "FARTCOIN",
+        "ticker": "FART",
+        "weight": 5.0,
+        "sector": "Memecoin"
+    },
+    {
+        "name": "CRV (Curve DAO Token)",
+        "ticker": "CRV",
+        "weight": 5.0,
+        "sector": "DeFi"
+    },
+    {
+        "name": "Official Trump",
+        "ticker": "TRUMP",
+        "weight": 0.5,
+        "sector": "General Crypto"
+    }
+]

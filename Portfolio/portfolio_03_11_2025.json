@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bitcoin",
+        "ticker": "BTC",
+        "weight": 25.0,
+        "sector": "Store of Value"
+    },
+    {
+        "name": "Ethereum",
+        "ticker": "ETH",
+        "weight": 20.0,
+        "sector": "Smart Contracts"
+    },
+    {
+        "name": "Solana",
+        "ticker": "SOL",
+        "weight": 15.0,
+        "sector": "Scalability"
+    },
+    {
+        "name": "Ripple",
+        "ticker": "XRP",
+        "weight": 10.0,
+        "sector": "Cross-Border Payments"
+    },
+    {
+        "name": "Chainlink",
+        "ticker": "LINK",
+        "weight": 30.0,
+        "sector": "Oracles"
+    }
+]
