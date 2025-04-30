@@ -4,12 +4,16 @@ import http.client
 import json
 import re
 import time
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 def call_ai_model(prompt, data, output_filename=None, retries=3, timeout=60):
     """Calls the AI model with a given prompt. Saves result to JSON file if output_filename is provided."""
     api_host = "api.perplexity.ai"
     api_endpoint = "/chat/completions"
-    api_key = "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"
+    api_key = os.getenv("PERPLEXITY_API_KEY")
 
     payload = {
         "model": "llama-3.1-sonar-small-128k-online",
