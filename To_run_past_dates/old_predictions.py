@@ -189,4 +189,6 @@ if __name__ == "__main__":
     input_filename = "C:/Users/khuwa/Cse_Project/coin_market_cap_top_50/March Data/data_3_29_2025.json"
     original_date = "03_29_2025"  # month_day_year
     generate_predictions_from_file(input_filename, original_date)
+
+#making small change
  
